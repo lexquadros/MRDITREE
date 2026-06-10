@@ -1,6 +1,9 @@
 # MRDITree: Most Reliable Directed Trees
 
 **MRDITree** é uma aplicação Python para análise de **sequências comportamentais** baseada em **árvores orientadas de maior confiabilidade** (*Most Reliable Directed Trees*), adaptada do algoritmo de *Busacker & Saaty (1965)* para grafos probabilísticos. O modelo combina **cadeias de Markov de primeira ordem**, **teoria de grafos** e **otimização de caminhos** para identificar os **caminhos mais prováveis** entre categorias comportamentais, exibindo-os em **árvores hierárquicas e visualmente interpretáveis**.
+Esse algoritmo foi desenvolvido inicialmente pelo **Prof. Dr. Takechi Sato do Departamento de Psicologia Experimental da USP**. Em sequência, o **Prof. Dr. Carlos C. Alberts do Departamento de Ciências Biológicas da UNESP-Assis** aplicou o algoritmo no estudo de autolimpeza do gato doméstico, dando origem a um software, EthoSeq. 
+EthoSeq é um software para Windows que roda o algoritmo desenvolvido pelo prof. Takechi. 
+As sequências usadas como exemplo de aplicação são do meu doutorado e para ver mais sobre: docs/03_sequencias_aves.md
 
 ##  Visão Geral
 
@@ -33,7 +36,8 @@ mmrditree/
 ├── requirements.txt
 ├── docs/
 │   ├── 01_apresentacao.md
-│   └── 02_ferramentas_estatisticas.md
+│   ├── 02_ferramentas_estatisticas.md
+│   └── 03_sequencias_aves.md
 ├── ditree_resources/
 │   ├── __init__.py
 │   ├── ditree_source.py
