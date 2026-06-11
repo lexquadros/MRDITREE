@@ -14,9 +14,9 @@ O estudo original envolveu uma diversidade representativa de **Falconiformes** (
 *   **Família Anatide**: *Aix sponsa* (pato-carolino);
 *   **Threskiornithidae**: *Eudocimus ruber* (guará), *Platalea ajaja* (colhereiro);
 *   **Família Ardeidae**: *Ardea (=Casmerodius) alba* (Garça-branca-grande);
-*   **Família Accipitridae**: *Harpia harpyja* (Harpia), *Buteo albicaudatus* (Gavião-do-rabo-branco), *Buteogallus (Heterospizias) meridionalis* (gavião-caboclo), *Trigonoceps occipitalis* (Abutre-careca), *Gypohierax angolensis* (Abutre-do-coqueiro);
+*   **Família Accipitridae**: *Harpia harpyja* (Harpia), *Buteo albicaudatus* (Gavião-do-rabo-branco), *Buteogallus (=Heterospizias) meridionalis* (gavião-caboclo), *Trigonoceps occipitalis* (Abutre-careca), *Gypohierax angolensis* (Abutre-do-coqueiro);
 *   **Família Falconidae**: *Milvago chimachima* (Gavião-pinhé);
-*   **Família Cathartidae**: *Coragyps atratus* (Urubu-comum) e **Vultur griphus** (condor-andino).
+*   **Família Cathartidae**: *Coragyps atratus* (Urubu-comum), **Sarcohamphus papa** (urubu-rei) e **Vultur griphus** (condor-andino).
 
 Essa composição inclui espécies de **diferentes regiões geográficas**, abrangendo **tanto as Américas quanto o Velho Mundo**, o que enriquece a base de dados com variações comportamentais potencialmente associadas a diferentes ecologias, filogenias e históricos evolutivos.
 
