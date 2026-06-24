@@ -1,6 +1,8 @@
 # Imports
 import pandas as pd
 from utils.data_utils import prepare_data, run_mrditree_analysis_multi_species
+import warnings
+warnings.filterwarnings("ignore", category=RuntimeWarning, module="matplotlib")
 
 # Carregar os dados
 file_path = 'sequencias_aves/sequencias_todas.csv'

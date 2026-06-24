@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from ditree_resources.ditree_source import ditree_source
 from ditree_resources.ditree_sink import ditree_sink
 from ditree_resources import plot_tree
+from ditree_resources.extract_sequences import build_sequences_dataframes
 from ditree_resources.sequence_tools import sequence_to_transition_matrix
-#from ditree_resources.extract_sequences import build_sequences_dataframes
 
 def prepare_data(df):
     """
@@ -182,8 +182,15 @@ def run_single_species_analysis(sequence, acts, alpha=0.05, output_dir='.'):
 
     print(f"\nTodas as imagens e matrizes foram salvas em: {output_dir}")
 
-    # gerando dataframes com as sequências mais prováveis (opcional, se disponível)
-    # df_source, df_sink = build_sequences_dataframes(source_results, sink_results, acts)
+    # gerando dataframes com as sequências mais prováveis
+    df_source, df_sink = build_sequences_dataframes(source_results, sink_results, acts)
+
+    df_source_path = os.path.join(output_dir, 'sequences_source.csv')
+    df_source.to_csv(df_source_path, index=False)
+
+    df_sink_path = os.path.join(output_dir, 'sequences_sink.csv')
+    df_sink.to_csv(df_sink_path, index=False)
+
 
     # === Visualizar ===
     # print("\nSequências Source:")

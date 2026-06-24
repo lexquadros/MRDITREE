@@ -5,7 +5,7 @@ Link da tese de doutorado: https://teses.usp.br/teses/disponiveis/47/47132/tde-0
 
 #### **Origem e Natureza dos Dados**
 
-As sequências comportamentais utilizadas neste trabalho originaram-se de **observações naturalísticas** conduzidas em **treze espécies de aves**, totalizando **3.190 registros de comportamento de autolimpeza**. Essas observações capturaram o **repertório de autolimpeza** em contextos naturais ou semi-naturais, registrando a **ordem e a frequência com que diferentes atos comportamentais ocorrem sequencialmente**. Este tipo de dado é crucial para a análise de **padrões de transição** e **organização interna das sequências**, que são os focos centrais do método Ditree.
+As sequências comportamentais utilizadas neste trabalho originaram-se de **observações naturalísticas** conduzidas em **treze espécies de aves**, totalizando **11.620 registros de comportamento de autolimpeza e 3.190 probabilísticas**. Essas observações capturaram o **repertório de autolimpeza** em contextos naturais ou semi-naturais, registrando a **ordem e a frequência com que diferentes atos comportamentais ocorrem sequencialmente**. Este tipo de dado é crucial para a análise de **padrões de transição** e **organização interna das sequências**, que são os focos centrais do método Ditree.
 
 #### **Espécies Estudadas**
 
