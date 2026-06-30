@@ -1,0 +1,12 @@
+contexto: a primeira parte do código roda muito bem, expõe corretamente as análises. seguem as funções e classes do código
+class SequenceProcessor:
+class SiameseSequenceDataset(Dataset):
+class SequenceEncoder(nn.Module):
+class SiameseNetwork(nn.Module):
+class ContrastiveLoss(nn.Module):
+def train_model(model, train_loader, criterion, optimizer, num_epochs=20, device='cpu'):
+def visualize_embeddings(model, sequences, species_labels, device='cpu'):
+def main():
+a segunda parte do código também roda corretamente. seguem as classes e funções do código:
+
+
